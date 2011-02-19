@@ -43,7 +43,7 @@ Played a major role in many release cycles for both Windmill and Mozmill open so
 Maintaining JavaScript organization, coding standards, Framework usage and performance.
 Cross browser compatibility, bug ﬁxing, active involvement in client side architecture and planning.</pre>
 
-**QA Development Engineer**, *Open Source Applications Foundation.* 2007 – 2008
+**QA Developer**, *Open Source Applications Foundation.* Feb 07 – Jan 08
 Know the internals and insure the quality of all front end functionality in the Chandler Server.
 Interface with developers, release managers and QA in order to ensure smooth releases.
 Develop JSON/Python and JavaScript tests to automate release cycles.
@@ -55,7 +55,7 @@ Project was founded at OSAF by myself and Mikeal Rogers.
 Designed to provide end to end functional web UI testing of any web application.
 My primary responsibilities include JavaScript IDE, and Core interaction with the Browsers.
 
-**QA Contractor, Open Source Applications Foundation. 2006 – 2007**
+**QA Contractor**, *Open Source Applications Foundation.* May 06 – Feb 07
 Python tool development for automated testing using JSON-RPC, CMP.
 Contributions to the Selenium Core (Web Testing Framework) enhancing AJAX testing functionality.
 Contributions to the Broadsword testing Framework. (testrunner, stress testing)
@@ -74,13 +74,24 @@ Classroom style instruction of Microsoft Ofﬁce, Front Page, Dream Weaver, and 
 Interaction and presentation to groups of K-12 school teachers.
 Running active directory and web hosing for all ﬁnal web projects.
 Extensive trouble shooting of network, software and PC hardware.
+
 EDUCATION
+=========
 Washington State University, Pullman, Washington — B.A Computer Science
 Washington State University, Pullman, Washington — B.A Business Administration
+
 PERSONAL
+========
+
 Hobbies
+-------
+
 I am a NAUI certiﬁed SCUBA diver, avid mountaineer, skier and sailor. I spent most of my life exploring the Northwest National Forests and Puget Sound. Growing up I played eight years of premier soccer and a ninth year as a freshman in college. I now play for fun on Bay Area teams to keep ﬁt. I try to keep my blog updated at adamchristian.com, so my family and friends can follow my adventures.
+
 Travel
+------
 I have spent a summer in Australia volunteering at wildlife refuges and conservation parks, diving on the barrier reef and repelling off the cliffs of the Blue Mountains. I also spent a summer in Iceland exploring the mid atlantic rift, and the volcanoes of Vestmannaeyjar. My most recent excursion was to the Scottish Highland Way where I explored the castles, towns and distilleries.
+
 Music
+-----
 I have played electric and acoustic guitar for 10 years, and like to keep up on my tablature reading and song libraries. I was inspired by seeing Eric Johnson and Joe Satriani in concert in Spokane Washington.
