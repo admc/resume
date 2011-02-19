@@ -77,8 +77,10 @@ Extensive trouble shooting of network, software and PC hardware.
 
 EDUCATION
 =========
-Washington State University, Pullman, Washington — B.A Computer Science
-Washington State University, Pullman, Washington — B.A Business Administration
+<pre>
+  Washington State University, Pullman, Washington — B.A Computer Science
+  Washington State University, Pullman, Washington — B.A Business Administration
+</pre>
 
 PERSONAL
 ========
