@@ -30,16 +30,25 @@ EXPERIENCE
 ----------
 
 **JavaScript Architect**, *Sauce Labs.* March 2010 – Current
-<pre>Building cloud based test automation services, improving Windmill, Selenium and working on Flex/Flash test automation solutions.</pre>
+<pre>
+Building cloud based test automation services, improving Windmill, Selenium and working on 
+Flex/Flash test automation solutions.
+</pre>
 
 **Automation Architect/Manager**, *Slide Inc.* July 2008 – March 2010
 <pre>
-Lead the company wide effort to adopt test automation into Slide QA. Built an automated testing system using Windmill, Mozmill, Testmill, Hudson, and VMWare to manage testing resources, interact with the source repositories, run automated tests against different staging environments and branches, and report results.
+Lead the company wide effort to adopt test automation into Slide QA. Built an automated testing system using:
+Windmill, Mozmill, Testmill, Hudson, and VMWare to manage testing resources, interact with the source repositories, 
+run automated tests against different staging environments and branches, and report results.
 
-Also, lead a team of up to 8 QA Engineers of both in house and outsourced resources writing automated test cases. Act as a communication bridge between them and in house QA/Development/IT, provide them with tools and manage goals ensuring efficiency and performance as well as reviewing tests ensuring the quality.
-Played a major role in many release cycles for both Windmill and Mozmill open source projects, and created a test case management server called Testmill to tie all of the reporting and management resources together for fast test analysis and debugging.</pre>
+Also, lead a team of up to 8 QA Engineers of both in house and outsourced resources writing automated test cases. 
+Act as a communication bridge between them and in house QA/Development/IT, provide them with tools and manage goals 
+ensuring efficiency and performance as well as reviewing tests ensuring the quality. Played a major role in many 
+release cycles for both Windmill and Mozmill open source projects, and created a test case management server 
+called Testmill to tie all of the reporting and management resources together for fast test analysis and debugging.
 
-During my time at Slide I also worked on FunSpace doing JavaScript and Python development, and SuperPocus doing Flash/Flex development, when needed.
+During my time at Slide I also worked on FunSpace doing JavaScript and Python development, and SuperPocus doing 
+Flash and Flex development.
 </pre>
 
 **Software Engineer (Web Developer)**, *Rearden Commerce.* Jan 08 – July 08
@@ -86,16 +95,24 @@ Hobbies
 -------
 
 <pre>
-I am a NAUI certiﬁed SCUBA diver, avid mountaineer, skier and sailor. I spent most of my life exploring the Northwest National Forests and Puget Sound. Growing up I played eight years of premier soccer and a ninth year as a freshman in college. I now play for fun on Bay Area teams to keep ﬁt. I try to keep my blog updated at adamchristian.com, so my family and friends can follow my adventures.
+I am a NAUI certiﬁed SCUBA diver, avid mountaineer, skier and sailor. I spent most of my life exploring 
+the Northwest National Forests and Puget Sound. Growing up I played eight years of premier soccer and a 
+ninth year as a freshman in college. I now play for fun on Bay Area teams to keep ﬁt. I try to keep my 
+blog updated at adamchristian.com, so my family and friends can follow my adventures.
 </pre>
 
 Travel
 ------
 <pre>
-I have spent a summer in Australia volunteering at wildlife refuges and conservation parks, diving on the barrier reef and repelling off the cliffs of the Blue Mountains. I also spent a summer in Iceland exploring the mid atlantic rift, and the volcanoes of Vestmannaeyjar. My most recent excursion was to the Scottish Highland Way where I explored the castles, towns and distilleries.
+I have spent a summer in Australia volunteering at wildlife refuges and conservation parks, diving on 
+the barrier reef and repelling off the cliffs of the Blue Mountains. I also spent a summer in Iceland 
+exploring the mid atlantic rift, and the volcanoes of Vestmannaeyjar. My most recent excursion was to 
+the Scottish Highland Way where I explored the castles, towns and distilleries.
 </pre>
 
 Music
 -----
 <pre>
-I have played electric and acoustic guitar for 10 years, and like to keep up on my tablature reading and song libraries. I was inspired by seeing Eric Johnson and Joe Satriani in concert in Spokane Washington.</pre>
+I have played electric and acoustic guitar for 10 years, and like to keep up on my tablature reading 
+and song libraries. I was inspired by seeing Eric Johnson and Joe Satriani in concert in Spokane Washington.
+</pre>
