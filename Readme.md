@@ -32,18 +32,18 @@ EXPERIENCE
 **JavaScript Architect**, *Sauce Labs.* March 2010 – Current
 <pre>Building cloud based test automation services, improving Windmill, Selenium and working on Flex/Flash test automation solutions.</pre>
 
-**Automation Architect/Manager, Slide Inc. July 2008 – March 2010**
-Lead the company wide effort to adopt test automation into Slide QA. Built an automated testing system using Windmill, Mozmill, Testmill, Hudson, and VMWare to manage testing resources, interact with the source repositories, run automated tests against different staging environments and branches, and report results.
-Also, lead a team of up to 8 QA Engineers of both in house and outsourced resources writing automated test cases. Act as a communication bridge between them and in house QA/Development/IT, provide them with tools and manage goals ensuring efficiency and performance as well as reviewing tests ensuring the quality.
-Played a major role in many release cycles for both Windmill and Mozmill open source projects, and created a test case management server called Testmill to tie all of the reporting and management resources together for fast test analysis and debugging.
-During my time at Slide I also worked on FunSpace doing JavaScript and Python development, and SuperPocus doing Flash/Flex development, when needed.
+**Automation Architect/Manager**, *Slide Inc.* July 2008 – March 2010
+<pre>Lead the company wide effort to adopt test automation into Slide QA. Built an automated testing system using Windmill, Mozmill, Testmill, Hudson, and VMWare to manage testing resources, interact with the source repositories, run automated tests against different staging environments and branches, and report results.</pre>
+<pre>Also, lead a team of up to 8 QA Engineers of both in house and outsourced resources writing automated test cases. Act as a communication bridge between them and in house QA/Development/IT, provide them with tools and manage goals ensuring efficiency and performance as well as reviewing tests ensuring the quality.
+Played a major role in many release cycles for both Windmill and Mozmill open source projects, and created a test case management server called Testmill to tie all of the reporting and management resources together for fast test analysis and debugging.</pre>
+<pre>During my time at Slide I also worked on FunSpace doing JavaScript and Python development, and SuperPocus doing Flash/Flex development, when needed.</pre>
 
-**Software Engineer (Web Developer), Rearden Commerce. Jan 08 – July 08**
-Client side development of universal widgets for the Rearden Personal Assistant.
+**Software Engineer (Web Developer)**, *Rearden Commerce.* Jan 08 – July 08
+<pre>Client side development of universal widgets for the Rearden Personal Assistant.
 Maintaining JavaScript organization, coding standards, Framework usage and performance.
-Cross browser compatibility, bug ﬁxing, active involvement in client side architecture and planning.
+Cross browser compatibility, bug ﬁxing, active involvement in client side architecture and planning.</pre>
 
-**QA Development Engineer, Open Source Applications Foundation. 2007 – 2008**
+**QA Development Engineer**, *Open Source Applications Foundation.* 2007 – 2008
 Know the internals and insure the quality of all front end functionality in the Chandler Server.
 Interface with developers, release managers and QA in order to ensure smooth releases.
 Develop JSON/Python and JavaScript tests to automate release cycles.
