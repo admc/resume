@@ -29,7 +29,7 @@ Forgotten, but once used
 EXPERIENCE
 ----------
 
-**JavaScript Architect, Sauce Labs. March 2010 – Current**
+**JavaScript Architect**, *Sauce Labs.* March 2010 – Current
 <pre>Building cloud based test automation services, improving Windmill, Selenium and working on Flex/Flash test automation solutions.</pre>
 
 **Automation Architect/Manager, Slide Inc. July 2008 – March 2010**
