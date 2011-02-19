@@ -30,7 +30,7 @@ EXPERIENCE
 ----------
 
 **JavaScript Architect, Sauce Labs. March 2010 – Current**
-Building cloud based test automation services, improving Windmill, Selenium and working on Flex/Flash test automation solutions.
+<pre>Building cloud based test automation services, improving Windmill, Selenium and working on Flex/Flash test automation solutions.</pre>
 
 **Automation Architect/Manager, Slide Inc. July 2008 – March 2010**
 Lead the company wide effort to adopt test automation into Slide QA. Built an automated testing system using Windmill, Mozmill, Testmill, Hudson, and VMWare to manage testing resources, interact with the source repositories, run automated tests against different staging environments and branches, and report results.
