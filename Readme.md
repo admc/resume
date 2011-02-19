@@ -1,4 +1,5 @@
 PROFESSIONAL SKILLS
+===================
 
 Advanced skills
 ---------------
@@ -26,6 +27,8 @@ Forgotten, but once used
 * LISP, ML, VB, ASM, Perl
 
 EXPERIENCE
+----------
+
 JavaScript Architect, Sauce Labs. March 2010 – Current
 Building cloud based test automation services, improving Windmill, Selenium and working on Flex/Flash test automation solutions.
 Automation Architect/Manager, Slide Inc. July 2008 – March 2010
