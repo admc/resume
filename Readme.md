@@ -6,21 +6,18 @@ Advanced skills
 * JavaScript/CSS/DOM/XUL/XPCOM
 * Dojo, Prototype, Fleegix, JQuery, YUI : JavaScript frameworks
 * Django, Pylons: Web Frameworks
-* Windmill, Selenium, Watir, Watin, Mozmill: Testing Frameworks
+* Jellyfish, Windmill, Selenium, Watir, Watin, Mozmill: Testing Frameworks
 * Flash/Flex/AS3
+* Node.js
 
 Solid foundation skills
 -----------------------
-* PHP, Python, wxPython, C, C++, C#
-* Database programming (MySQL, PostgreSQL, MSSQL)
+* Python, wxPython, PHP, C, C++, C#
+* Database programming (MySQL, PostgreSQL, MSSQL, CouchDB)
 * Photoshop, GIMP
 * HCI concepts, user observation and analysis
 * Software testing methodology
 * SVN, CVS, Perforce, Git
-
-Learning
---------
-* CouchDB, Node.js
 
 Forgotten, but once used
 ------------------------
