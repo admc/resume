@@ -39,7 +39,7 @@ Started a NodeJS client library for driving WebDriver: https://github.com/admc/w
 Created a DOM inspection system for generating acceptance tests (called test-machine): https://github.com/admc/test-machine
 Improved, documented and evangelized the Flex Pilot Automation Library: https://github.com/mde/flex-pilot
 Built and released a Selenium IDE extension for recording Flex Automation: https://github.com/admc/flex-pilot-x
-Multiple releases of the Windmill Testing Framework (including a completely re-tooled UI): http://github.com/windmill/windmill
+Multiple releases of the Windmill Testing Framework (including a re-tooled UI): http://github.com/windmill/windmill
 </pre>
 
 **Automation Architect/Manager**, *Slide Inc.* July 2008 – March 2010
