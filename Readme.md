@@ -28,8 +28,18 @@ EXPERIENCE
 
 **JavaScript Architect**, *Sauce Labs.* March 2010 – Current
 <pre>
-Building cloud based test automation services, improving Windmill, Selenium and working on 
-Flex/Flash test automation solutions.
+Building intuitive web based applications to help users how to setup and utilize the Sauce OnDemand cloud testing service.
+  - This includes the Sauce Labs JumpStart on-ramping system.
+  - This lead to Open Sourcing a small dialoging system built on top of jQuery UI: https://github.com/admc/jqWizard
+Managed the development of the Open Source test creation IDE, Sauce/Selenium Builder: http://code.google.com/p/se-builder/.
+  - Distributed 3 person team
+Managed partnerships and the development and refinement of the Sauce Labs REST API for developer integration
+Created the NodeJS Jellyfish Execution Framework: http://github.com/admc/jellyfish, http://www.jelly.io
+Started a NodeJS client library for driving WebDriver: https://github.com/admc/wd
+Created a NodeJS DOM inspection system for generating acceptance tests (called test-machine): https://github.com/admc/test-machine
+Improved, documented and evangelized the Flex Pilot Automation Library: https://github.com/mde/flex-pilot
+Built and released a Selenium IDE extension for recording Flex Automation: https://github.com/admc/flex-pilot-x
+Release multiple version of the Windmill Testing Framework (including a completely re-tooled UI): http://github.com/windmill/windmill
 </pre>
 
 **Automation Architect/Manager**, *Slide Inc.* July 2008 – March 2010
