@@ -36,10 +36,10 @@ Managed the development of the Open Source test creation IDE, Sauce/Selenium Bui
 Managed Sauce Labs partnerships and the development and refinement of the Sauce Labs REST API for developer integration
 Created the Jellyfish Execution Framework in NodeJS: http://github.com/admc/jellyfish, http://www.jelly.io
 Started a NodeJS client library for driving WebDriver: https://github.com/admc/wd
-Created a DOM inspection system for generating acceptance tests (called test-machine), with NodeJS: https://github.com/admc/test-machine
+Created a DOM inspection system for generating acceptance tests (called test-machine): https://github.com/admc/test-machine
 Improved, documented and evangelized the Flex Pilot Automation Library: https://github.com/mde/flex-pilot
 Built and released a Selenium IDE extension for recording Flex Automation: https://github.com/admc/flex-pilot-x
-Released multiple version of the Windmill Testing Framework (including a completely re-tooled UI): http://github.com/windmill/windmill
+Multiple releases of the Windmill Testing Framework (including a completely re-tooled UI): http://github.com/windmill/windmill
 </pre>
 
 **Automation Architect/Manager**, *Slide Inc.* July 2008 – March 2010
