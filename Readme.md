@@ -26,7 +26,15 @@ Forgotten, but once used
 EXPERIENCE
 ----------
 
-**JavaScript Architect**, *Sauce Labs.* March 2010 – Current
+**Director of Web Development**, *Sauce Labs.* February 2012 – Current
+<pre>
+  - Building a roadmap for front-end development, hiring a team of engineers to make it a reality.
+  - Continuing to improve the Sauce Labs user experience and product messaging.
+  - Contributing to decision making in regards to the direction of our products and focus on the software tools and development markets.
+  - Playing technical point when it comes to integrations and partnerships.
+</pre>
+
+**JavaScript Architect**, *Sauce Labs.* March 2010 – February 2012
 <pre>
 Building intuitive web based applications to help users setup and utilize the Sauce OnDemand cloud testing service.
   - This includes the Sauce Labs JumpStart on-ramping system.
