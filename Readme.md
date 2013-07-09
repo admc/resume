@@ -26,7 +26,15 @@ Forgotten, but once used
 EXPERIENCE
 ----------
 
-**Director of Web Development**, *Sauce Labs.* February 2012 – Current
+**VP of Development**, *Sauce Labs.* January 2013 – Current
+<pre>
+  - Building a development organization to support and scale our infrastructure.
+  - Making technical decisions about our tools and software.
+  - Coordinating the evangelism and developer advocacy effort.
+  - Delivering polished products.
+</pre>
+
+**Director of Web Development**, *Sauce Labs.* February 2012 – January 2013
 <pre>
   - Building a roadmap for front-end development, hiring a team of engineers to make it a reality.
   - Continuing to improve the Sauce Labs user experience and product messaging.
