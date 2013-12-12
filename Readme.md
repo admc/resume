@@ -4,9 +4,10 @@ PROFESSIONAL SKILLS
 Advanced skills
 ---------------
 * JavaScript/CSS/DOM/XUL/XPCOM
-* Dojo, Prototype, Fleegix, JQuery, YUI : JavaScript frameworks
-* Django, Pylons: Web Frameworks
-* Jellyfish, Windmill, Selenium, Watir, Watin, Mozmill: Testing Frameworks
+* Dojo, Prototype, Fleegix, JQuery, YUI: JavaScript frameworks
+* Django, Pylons, Express, Geddy: Web Frameworks
+* Backbone.js, AngularJS: Client MVC Frameworks
+* Jellyfish, Windmill, Selenium/Webdriver, Mozmill: Testing Frameworks
 * Flash/Flex/AS3
 * Node.js
 
