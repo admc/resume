@@ -28,10 +28,15 @@ EXPERIENCE
 
 **VP of Development**, *Sauce Labs.* January 2013 – Current
 <pre>
-  - Building a development organization to support and scale our infrastructure.
+  - Building a development organization and hiring to support and scale our infrastructure.
+  - Streamlining development processes, inter org communication.
+  - Project planning and headcount/resource allocation.
+  - Participant in board meetings and high level strategic decision making.
+  - Working with sales and marketing to meet quarterly revenue goals.
+  - Interfacing directly with top tier customers.
   - Making technical decisions about our tools and software.
   - Coordinating the evangelism and developer advocacy effort.
-  - Delivering polished products.
+  - Delivering innovative and polished products.
 </pre>
 
 **Director of Web Development**, *Sauce Labs.* February 2012 – January 2013
