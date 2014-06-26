@@ -1,14 +1,14 @@
 PROFESSIONAL SKILLS
 ===================
 
-Management skills
+Management
 ---------------
 * Hiring, team building, org and budget planning
 * Development process optimization
 * Company strategy and product vision
 * Evangelism, conference speaking, community development
 
-Advanced development skills
+Advanced development
 ---------------
 * JavaScript/CSS/DOM/XUL/XPCOM
 * Dojo, Prototype, Fleegix, JQuery, YUI: JavaScript frameworks
@@ -17,7 +17,7 @@ Advanced development skills
 * Jellyfish, Windmill, Selenium/Webdriver, Mozmill: Testing Frameworks
 * Node.js
 
-Solid foundation development skills
+Foundation development
 -----------------------
 * Python, wxPython, PHP, C, C++, C#
 * Database programming (MySQL, PostgreSQL, MSSQL, CouchDB)
