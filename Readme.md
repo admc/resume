@@ -1,6 +1,13 @@
 PROFESSIONAL SKILLS
 ===================
 
+Management skills
+---------------
+* Hiring, team building, org and budget planning
+* Development process optimization
+* Company strategy and product vision
+* Evangelism, conference speaking, community development
+
 Advanced skills
 ---------------
 * JavaScript/CSS/DOM/XUL/XPCOM
@@ -8,7 +15,6 @@ Advanced skills
 * Django, Pylons, Express, Geddy: Web Frameworks
 * Backbone.js, AngularJS: Client MVC Frameworks
 * Jellyfish, Windmill, Selenium/Webdriver, Mozmill: Testing Frameworks
-* Flash/Flex/AS3
 * Node.js
 
 Solid foundation skills
@@ -19,10 +25,6 @@ Solid foundation skills
 * HCI concepts, user observation and analysis
 * Software testing methodology
 * SVN, CVS, Perforce, Git
-
-Forgotten, but once used
-------------------------
-* LISP, ML, VB, ASM, Perl
 
 EXPERIENCE
 ----------
@@ -125,23 +127,5 @@ Hobbies
 
 <pre>
 I am a NAUI certiﬁed SCUBA diver, avid mountaineer, skier and sailor. I spent most of my life exploring 
-the Northwest National Forests and Puget Sound. Growing up I played eight years of premier soccer and a 
-ninth year as a freshman in college. I now play for fun on Bay Area teams to keep ﬁt. I try to keep my 
-blog updated at adamchristian.com, so my family and friends can follow my adventures.
-</pre>
-
-Travel
-------
-<pre>
-I have spent a summer in Australia volunteering at wildlife refuges and conservation parks, diving on 
-the barrier reef and repelling off the cliffs of the Blue Mountains. I also spent a summer in Iceland 
-exploring the mid atlantic rift, and the volcanoes of Vestmannaeyjar. My most recent excursion was to 
-the Scottish Highland Way where I explored the castles, towns and distilleries.
-</pre>
-
-Music
------
-<pre>
-I have played electric and acoustic guitar for 10 years, and like to keep up on my tablature reading 
-and song libraries. I was inspired by seeing Eric Johnson and Joe Satriani in concert in Spokane Washington.
+the Northwest National Forests and Puget Sound. I've spent the last 5 years studying linguistics, specifically the German language and speaking at conferences about language learning techniques.
 </pre>
