@@ -8,7 +8,7 @@ Management skills
 * Company strategy and product vision
 * Evangelism, conference speaking, community development
 
-Advanced skills
+Advanced development skills
 ---------------
 * JavaScript/CSS/DOM/XUL/XPCOM
 * Dojo, Prototype, Fleegix, JQuery, YUI: JavaScript frameworks
@@ -17,7 +17,7 @@ Advanced skills
 * Jellyfish, Windmill, Selenium/Webdriver, Mozmill: Testing Frameworks
 * Node.js
 
-Solid foundation skills
+Solid foundation development skills
 -----------------------
 * Python, wxPython, PHP, C, C++, C#
 * Database programming (MySQL, PostgreSQL, MSSQL, CouchDB)
@@ -127,5 +127,5 @@ Hobbies
 
 <pre>
 I am a NAUI certiﬁed SCUBA diver, avid mountaineer, skier and sailor. I spent most of my life exploring 
-the Northwest National Forests and Puget Sound. I've spent the last 5 years studying linguistics, specifically the German language and speaking at conferences about language learning techniques.
+the Northwest National Forests and Puget Sound. I've spent the last 5 years studying linguistics, specifically the German language and speaking at conferences about language learning techniques. I really enjoy traveling and exploring new places, constantly learning, and building out development projects on the side to keep my skills sharp and up-to date.
 </pre>
