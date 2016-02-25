@@ -3,31 +3,30 @@ PROFESSIONAL SKILLS
 
 Management
 ---------------
-* Hiring, team building, org and budget planning
-* Development process optimization
+* Hiring, team building, organization and budget planning
+* Software development process,  definition and optimization
+* Mentoring and training new engineering management
 * Company strategy and product vision
 * Evangelism, conference speaking, community development
 
-Advanced development
+Current Technologies
 ---------------
-* JavaScript/CSS/DOM/XUL/XPCOM
-* Dojo, Prototype, Fleegix, JQuery, YUI: JavaScript frameworks
-* Django, Pylons, Express, Geddy: Web Frameworks
-* Backbone.js, AngularJS: Client MVC Frameworks
-* Jellyfish, Windmill, Selenium/Webdriver, Mozmill: Testing Frameworks
-* Node.js
-
-Foundation development
------------------------
-* Python, wxPython, PHP, C, C++, C#
-* Database programming (MySQL, PostgreSQL, MSSQL, CouchDB)
-* Photoshop, GIMP
-* HCI concepts, user observation and analysis
-* Software testing methodology
-* SVN, CVS, Perforce, Git
+* Webpack, Gulp, React.js, Material-UI, Alt.js (Flux), Express, Less: Modern Web 
+* Node.js, Postgres, RethinkDB: Core Technologies
 
 EXPERIENCE
 ----------
+
+**VP of Engineering**, *Betable.* July 2015 – Current
+<pre>
+  - Nearly doubled the 14 member Engineering organization in 6 months.
+  - Established a sattelite office in Edmonton, Canada.
+  - Migrated engineering to cross functional scrum teams.
+  - Moved the organinization to modern pull request and review process.
+  - Implemented an engineering and support SLA.
+  - Mentored new engineering managers, and put them through formal training.
+  - Built 2016 hiring and organizational growth plan.
+</pre>
 
 **VP of Engineering**, *Sauce Labs.* January 2013 – Current
 <pre>
