@@ -1,5 +1,6 @@
-PROFESSIONAL SKILLS
-===================
+Adam Christian - VP of Engineering
+---------------
+adam.christian@gmail.com | @admc
 
 Management
 ---------------
