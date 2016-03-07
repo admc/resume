@@ -1,4 +1,4 @@
-Adam Christian - VP of Engineering
+Adam Christian - Engineering Leader, Entrepreneur, Technologist
 ---------------
 adam.christian@gmail.com | github.com/admc | medium.com/@admc
 
