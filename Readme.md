@@ -28,7 +28,7 @@ EXPERIENCE
   - Built 2016 hiring and organizational growth plan.
 </pre>
 
-**VP of Engineering**, *Sauce Labs.* January 2013 – Current
+**VP of Engineering**, *Sauce Labs.* January 2013 – July 2015
 <pre>
   - Building a development organization and hiring to support and scale our infrastructure.
   - Streamlining development processes, inter org communication.
