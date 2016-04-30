@@ -13,7 +13,8 @@ Management
 Technologies
 ---------------
 * **Modern Web**: Webpack, Gulp, React.js, Material-UI, Flux, Express, Less
-* **Core Technologies**: Node.js, Python, Postgres, RethinkDB, AWS, Unix
+* **Core Technologies**: Unix, Postgres, RethinkDB, AWS, Node.js, Python
+* **Software Delivery**: Webdriver, CasperJS, Jenkins, Travis-CI, Git, KVM, LXC
 
 EXPERIENCE
 ----------
