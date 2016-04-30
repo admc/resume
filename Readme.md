@@ -12,8 +12,8 @@ Management
 
 Technologies
 ---------------
-* Modern Web: Webpack, Gulp, React.js, Material-UI, Flux, Express, Less
-* Core Technologies: Node.js, Python, Postgres, RethinkDB, AWS
+* **Modern Web**: Webpack, Gulp, React.js, Material-UI, Flux, Express, Less
+* **Core Technologies**: Node.js, Python, Postgres, RethinkDB, AWS, Unix
 
 EXPERIENCE
 ----------
@@ -87,8 +87,8 @@ During my time at Slide I also worked on FunSpace doing JavaScript and Python de
 
 EDUCATION
 =========
-Washington State University, Pullman, Washington — B.A Computer Science
-Washington State University, Pullman, Washington — B.A Business Administration
+ - Washington State University, Pullman, Washington — B.A Computer Science
+ - Washington State University, Pullman, Washington — B.A Business Administration
 
 PERSONAL
 ========
