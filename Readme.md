@@ -14,7 +14,7 @@ Technologies
 ---------------
 * **Modern Web**: Webpack, Gulp, React.js, Material-UI, Flux, Express, Less
 * **Core Technologies**: Unix, Postgres, RethinkDB, AWS, Node.js, Python
-* **Software Delivery**: Webdriver, CasperJS, Jenkins, Travis-CI, Git, KVM, LXC
+* **Software Delivery**: Test Automation, Continuous Integration, Configuration Management
 
 EXPERIENCE
 ----------
