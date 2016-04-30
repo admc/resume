@@ -77,14 +77,7 @@ During my time at Slide I also worked on FunSpace doing JavaScript and Python de
  - Interface with developers, release managers and QA in order to ensure smooth releases.
  - Develop JSON/Python and JavaScript tests to automate release cycles.
  - Maintain Chandler Server instances for automated testing, and QA Sessions.
-
-Chandler and Cosmo Testing and Automation –
-* http://chandler.osafoundation.org, http://cosmo.osafoundation.org
-* Windmill — co-founder, developer — http://www.getwindmill.com
-Project was founded at OSAF by myself and Mikeal Rogers.
-
-Designed to provide end to end functional web UI testing of any web application.
-My primary responsibilities include JavaScript IDE, and Core interaction with the Browsers.
+ - Windmill — co-founder, developer — http://www.getwindmill.com (founded at OSAF by myself and Mikeal Rogers)
 
 **QA Contractor**, *Open Source Applications Foundation.* May 06 – Feb 07
 
