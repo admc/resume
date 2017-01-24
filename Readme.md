@@ -51,14 +51,14 @@ EXPERIENCE
   - Coordinating the evangelism and developer advocacy effort.
   - Delivering innovative and polished products.
 
-**Director of Web Development**, *Sauce Labs.* February 2012 – January 2013
+**Director of Engineering, Web**, *Sauce Labs.* February 2012 – January 2013
 
   - Building a roadmap for front-end development, hiring a team of engineers to make it a reality.
   - Continuing to improve the Sauce Labs user experience and product messaging.
   - Contributing to decision making in regards to the direction of our products and focus on the software tools and development markets.
   - Playing technical point when it comes to integrations and partnerships.
 
-**JavaScript Architect**, *Sauce Labs.* March 2010 – February 2012
+**Senior Software Engineer**, *Sauce Labs.* March 2010 – February 2012
 
  - Building intuitive web based applications to help users setup and utilize the Sauce OnDemand cloud testing service.
  - Managed the development of the Open Source test creation IDE, Sauce/Selenium Builder: http://code.google.com/p/se-builder
@@ -66,7 +66,7 @@ EXPERIENCE
  - Started a NodeJS client library for driving WebDriver: https://github.com/admc/wd
  - Multiple releases of the Windmill Testing Framework (including a re-tooled UI): http://github.com/windmill/windmill
 
-**Automation Architect/Manager**, *Slide Inc.* July 2008 – March 2010
+**Senior Engineer, Automation Team Lead**, *Slide Inc.* July 2008 – March 2010
 
  - Lead the company wide effort to adopt test automation into Slide QA.
  - Built an automated testing system using Windmill, Mozmill, Testmill, Hudson, and VMWare
@@ -75,13 +75,13 @@ EXPERIENCE
 
 During my time at Slide I also worked on FunSpace doing JavaScript and Python development, and SuperPocus doing Flash and Flex development.
 
-**Software Engineer (Web Developer)**, *Rearden Commerce.* Jan 08 – July 08
+**Software Engineer**, *Rearden Commerce.* Jan 08 – July 08
 
  - Client side development of universal widgets for the Rearden Personal Assistant.
  - Maintaining JavaScript organization, coding standards, Framework usage and performance.
  - Cross browser compatibility, bug ﬁxing, active involvement in client side architecture and planning.
 
-**QA Developer**, *Open Source Applications Foundation.* Feb 07 – Jan 08
+**QA Engineer**, *Open Source Applications Foundation.* Feb 07 – Jan 08
 
  - Know the internals and insure the quality of all front end functionality in the Chandler Server.
  - Interface with developers, release managers and QA in order to ensure smooth releases.
