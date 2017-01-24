@@ -1,4 +1,4 @@
-Adam Christian - VP Engineering
+Adam Christian - Engineering Leader
 ---------------
 adam.christian@gmail.com | github.com/admc | medium.com/@admc
 
@@ -19,7 +19,16 @@ Technologies
 EXPERIENCE
 ----------
 
-**VP of Engineering**, *Betable.* July 2015 – Current
+**Executive Director of Technology**, *SinnerSchrader.* Sept 2015 – Current
+
+  - Responsible for the engineering efforts across multiple project teams.
+  - Functioning as a "Standort Leiter", to manage operations of the office.
+  - Work with technical directors to hire and manage developers at the Munich location.
+  - Influence development process and best practices.
+  - Motivate and the support the team, productivity, efficiency and happiness.
+
+
+**VP of Engineering**, *Betable.* July 2015 – August 2016
 
   - Doubled the Engineering organization to 30 across 4 teams.
   - Lead the team to succesfully execute on 3 quarters of product delivery.
