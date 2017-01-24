@@ -1,6 +1,6 @@
 Adam Christian - Engineering Leader
 ---------------
-adam.christian@gmail.com | [github.com/admc](http://github.com/admc) | [medium.com/@admc](medium.com/@admc)
+adam.christian@gmail.com | [github.com/admc](http://github.com/admc) | [medium.com/@admc](http://medium.com/@admc)
 
 Management
 ---------------
