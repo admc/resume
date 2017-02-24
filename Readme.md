@@ -25,8 +25,7 @@ EXPERIENCE
   - Functioning as a "Standort Leiter", to manage operations of the office.
   - Work with technical directors to hire and manage developers at the Munich location.
   - Influence development process and best practices.
-  - Motivate and the support the team, productivity, efficiency and happiness.
-
+  - Motivate and support team, productivity, efficiency and happiness.
 
 **VP of Engineering**, *Betable.* July 2015 – August 2016
 
@@ -41,8 +40,8 @@ EXPERIENCE
 
 **VP of Engineering**, *Sauce Labs.* January 2013 – July 2015
 
-  - Built an engineernig organization to ~55 across 5 teams to support and scale our infrastructure.
-  - Streamlining development processes, inter org communication.
+  - Built an engineering organization to ~55 across 5 teams to support and scale our infrastructure.
+  - Streamlining development processes, inter-org communication.
   - Project planning and headcount/resource allocation.
   - Participant in board meetings and high level strategic decision making.
   - Working with sales and marketing to meet quarterly revenue goals.
