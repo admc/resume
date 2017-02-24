@@ -25,7 +25,7 @@ EXPERIENCE
   - Functioning as a "Standort Leiter", to manage operations of the office.
   - Work with technical directors to hire and manage developers at the Munich location.
   - Influence development process and best practices.
-  - Motivate and support team, productivity, efficiency and happiness.
+  - Motivate and support team productivity, efficiency, and happiness.
 
 **VP of Engineering**, *Betable.* July 2015 – August 2016
 
