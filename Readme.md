@@ -46,20 +46,20 @@ EXPERIENCE
   - Participant in board meetings and high level strategic decision making.
   - Working with sales and marketing to meet quarterly revenue goals.
   - Interfacing directly with top tier customers.
-  - Making technical decisions about our tools and software.
+  - Made technical decisions about our tools and software.
   - Coordinating the evangelism and developer advocacy effort.
   - Delivering innovative and polished products.
 
 **Director of Engineering, Web**, *Sauce Labs.* February 2012 – January 2013
 
-  - Building a roadmap for front-end development, hiring a team of engineers to make it a reality.
-  - Continuing to improve the Sauce Labs user experience and product messaging.
-  - Contributing to decision making in regards to the direction of our products and focus on the software tools and development markets.
+  - Built a roadmap for front-end development, hiring a team of engineers to make it a reality.
+  - Improved the Sauce Labs user experience and product messaging.
+  - Contributed to product direction focusing on the software tools and development markets.
   - Playing technical point when it comes to integrations and partnerships.
 
 **Senior Software Engineer**, *Sauce Labs.* March 2010 – February 2012
 
- - Building intuitive web based applications to help users setup and utilize the Sauce OnDemand cloud testing service.
+ - Built intuitive web based applications to help users setup and utilize the Sauce OnDemand cloud testing service.
  - Managed the development of the Open Source test creation IDE, Sauce/Selenium Builder: http://code.google.com/p/se-builder
  - Managed Sauce Labs partnerships and the development and refinement of the Sauce Labs REST API for developer integration
  - Started a NodeJS client library for driving WebDriver: https://github.com/admc/wd
@@ -77,16 +77,16 @@ During my time at Slide I also worked on FunSpace doing JavaScript and Python de
 **Software Engineer**, *Rearden Commerce.* Jan 08 – July 08
 
  - Client side development of universal widgets for the Rearden Personal Assistant.
- - Maintaining JavaScript organization, coding standards, Framework usage and performance.
- - Cross browser compatibility, bug ﬁxing, active involvement in client side architecture and planning.
+ - Maintained JavaScript organization, coding standards, Framework usage and performance.
+ - Cross browser compatibility, active involvement in client side architecture and planning.
 
 **QA Engineer**, *Open Source Applications Foundation.* Feb 07 – Jan 08
 
- - Know the internals and insure the quality of all front end functionality in the Chandler Server.
- - Interface with developers, release managers and QA in order to ensure smooth releases.
+ - Ensure the quality of all front end functionality in the Chandler Server.
+ - Interface with developers, release managers and QA for smooth releases.
  - Develop JSON/Python and JavaScript tests to automate release cycles.
  - Maintain Chandler Server instances for automated testing, and QA Sessions.
- - Windmill — co-founder, developer — http://www.getwindmill.com (founded at OSAF by myself and Mikeal Rogers)
+ - Windmill Test Framework co-creator, developer — http://www.getwindmill.com (created at OSAF by myself and Mikeal Rogers)
 
 **QA Contractor**, *Open Source Applications Foundation.* May 06 – Feb 07
 
@@ -96,8 +96,8 @@ During my time at Slide I also worked on FunSpace doing JavaScript and Python de
 
 EDUCATION
 =========
- - Washington State University, Pullman, Washington — B.A Computer Science
  - Washington State University, Pullman, Washington — B.A Business Administration
+ - Washington State University, Pullman, Washington — B.A Computer Science
 
 PERSONAL
 ========
